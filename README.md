@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-For this challenge I used the Module 2 workbook code I prepared for Steve to get a better picture of the stock market. The original code used a nested for loop to go through the dataset and display the "Total Daily Volume" and "Return" for 12 stocks. In this project I was required to refactor the code to see if it could be more efficient and to see if I can get the script to run faster.
+For this challenge I used the Module 2 workbook code I prepared for Steve to get a better picture of the stock market. The original code used a nested for loop to go through the dataset and display the "Total Daily Volume" and "Return" for 12 stocks. In this project I was required to refactor the code to make it more efficient and to run the script faster.
 
 
 
